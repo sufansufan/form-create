@@ -1,8 +1,8 @@
 {
-  "name": "ruoyi",
+  "name": "form",
   "version": "2.4.0",
-  "description": "若依管理系统",
-  "author": "若依",
+  "description": "表单生成",
+  "author": "sufan",
   "license": "MIT",
   "scripts": {
     "dev": "vue-cli-service serve",
